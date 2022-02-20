@@ -3,7 +3,7 @@
     "id": "com.github.manishmh.plugin.templates.basic-pod-template",
     "author": "manish malhotra",
     "version": "1.0.0",
-    "description": "Creates a Pod for a specified Image",
+    "description": "Creates a Pod for a specified Images",
     "repository": "",
     "type": "vanilla",
     "forms": [
