@@ -5,9 +5,11 @@
 	"author": "manish malhotra",
 	"repository": "https://github.com/manishmh/monokle-templates-plugin",
 	"monoklePlugin": {
-		"modules": [{
+		"modules": [
+            {
 			"type": "template",
 			"path": "basic-pod-template"
-		}]
+		    }
+    ]
 	}
 }
